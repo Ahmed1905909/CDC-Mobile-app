@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "136481706750",
+    "project_id": "cdcmiu",
+    "storage_bucket": "cdcmiu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136481706750:android:d892f2fbcfc65589c98baf",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136481706750-atoii1u57vcaavvfs221ikgiqo3bk6oq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnK-oBe8_6htL_Sa-NiRmALrdIN8keQvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136481706750-atoii1u57vcaavvfs221ikgiqo3bk6oq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
